@@ -1,0 +1,25 @@
+def deprecated(func):
+    
+    import warnings
+    
+    
+    code = func.__code__
+    warnings.warn_explicit(
+        func.__name__ + " is deprecated. ",
+        category=DeprecationWarning,
+        filename=code.co_filename,
+        lineno=code.co_firstlineno + 1
+    )
+    
+    return func
+
+@deprecated
+def identity(x):
+    """
+    some doc
+    """
+    return x
+    
+    
+#Ссылка на repl
+#https://repl.it/@ulyaakwatore/Tema-2-LR#main.py
