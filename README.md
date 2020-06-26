@@ -11,18 +11,18 @@
 
 # Семестр 4
 
-1. Обработка исключений (ИСР, ВСР)
-1. Декораторы (ИСР, ВСР)
-1. Встроенные коллекции (ИСР, ВСР)
+1. Обработка исключений ([ИСР](https://github.com/Akwatore/Programm/blob/master/Sem_4/ISR_1.py), [ВСР](https://github.com/Akwatore/Programm/blob/master/Sem_4/VSR_1.py))
+1. Декораторы ([ИСР](https://github.com/Akwatore/Programm/blob/master/Sem_4/ISR_2.py), [ВСР](https://github.com/Akwatore/Programm/blob/master/Sem_4/VSR_2.py))
+1. Встроенные коллекции ([ИСР](https://github.com/Akwatore/Programm/blob/master/Sem_4/ISR_3.py), [ВСР](https://github.com/Akwatore/Programm/blob/master/Sem_4/VSR_3.py))
 
 # Семестр 5
 
 1. Модули. Пакеты (ИСР, ВСР)
-1. Итераторы (ИСР, ВСР)
+1. Итераторы ([ИСР](https://github.com/Akwatore/Programm/blob/master/Sem_5/ISR_2.1-2.py), ВСР)
 
 # Семестр 6
 
-1. ЛР Генератор блокчейна (30.04)
-1. ЛР 5
-1. ЛР 6
+1. [ЛР Генератор блокчейна (30.04)](https://github.com/Akwatore/Programm/blob/master/Sem_6/LR_30.04.py)
+1. [ЛР 5](https://github.com/Akwatore/Programm/blob/master/Sem_6/LR_5.md)
+1. [ЛР 6](https://github.com/Akwatore/Programm/blob/master/Sem_6/LR_6.py)
 1. WxPython. Квадратное уравнение
