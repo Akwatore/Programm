@@ -4,10 +4,10 @@
 
 # Семестр 3
 
-1. Введение в Python (ИСР)
-1. Функции (ЛР, ИСР, ВСР)
-1. Строки (ИСР, ВСР)
-1. Тестирование (ИСР, ВСР)
+1. Введение в Python ([ИСР](https://github.com/Akwatore/Programm/blob/master/Sem_3/ISR_1.2-4.py))
+1. Функции ([ЛР](https://github.com/Akwatore/Programm/blob/master/Sem_3/LR_Tema2), [ИСР](https://github.com/Akwatore/Programm/blob/master/Sem_3/ISR_2.1-4.py), [ВСР](https://github.com/Akwatore/Programm/blob/master/Sem_3/VSR_2.2-3.py))
+1. Строки ([ИСР](https://github.com/Akwatore/Programm/blob/master/Sem_3/ISR_3.1-4.py), [ВСР](https://github.com/Akwatore/Programm/blob/master/Sem_3/VSR_3.1-2.py))
+1. Тестирование ([ИСР](https://github.com/Akwatore/Programm/blob/master/Sem_3/ISR_4.py), [ВСР](https://github.com/Akwatore/Programm/blob/master/Sem_3/VSR_4.1-2.py))
 
 # Семестр 4
 
