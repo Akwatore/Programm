@@ -24,7 +24,7 @@ app = wx.App()
 frame = wx.Frame(None, title = 'Система линейных уравнений',size=(600, 250), style = wx.MINIMIZE_BOX | wx.SYSTEM_MENU | wx.CAPTION | wx.CLOSE_BOX | wx.CLIP_CHILDREN)
 mainPanel = wx.Panel(frame)
 
-#создаем главный бокссайзер, в нем располагаем три горизонтальных бокссайзера
+#создаем главный бокссайзер, в нем располагаем четыре горизонтальных бокссайзера
 vboxMain = wx.BoxSizer(wx.VERTICAL)
 vboxFirstLine = wx.BoxSizer()
 vboxDopLine = wx.BoxSizer()
@@ -62,7 +62,7 @@ vboxFirstLine.Add(getC, flag = wx.ALL, border = 7)
 
 vboxMain.Add(vboxFirstLine, wx.EXPAND)
 
-#оп сайзер
+#доп бокссайзер
 vboxDopLine.Add(getD, flag = wx.ALL, border = 7)
 vboxDopLine.Add(text3, flag = wx.ALL, border = 10)
 vboxDopLine.Add(getE, flag = wx.ALL, border = 7)
