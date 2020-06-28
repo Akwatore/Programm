@@ -17,7 +17,7 @@
 
 # Семестр 5
 
-1. Модули. Пакеты ([ИСР](https://github.com/Akwatore/Programm/blob/master/Sem_5/ISR_1.1.md), [ВСР](https://github.com/Akwatore/Programm/blob/master/Sem_5/VSR_1.py))
+1. Модули. Пакеты ([ИСР](https://github.com/Akwatore/Programm/blob/master/Sem_5/ISR_1.1.md), [ВСР](https://github.com/Akwatore/Programm/blob/master/Sem_5/VSR_1.1.md))
 1. Итераторы ([ИСР](https://github.com/Akwatore/Programm/blob/master/Sem_5/ISR_2.1-2.py), [ВСР](https://github.com/Akwatore/Programm/blob/master/Sem_5/VSR_2.py))
 
 # Семестр 6
