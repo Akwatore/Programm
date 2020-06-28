@@ -65,3 +65,7 @@ def print_number_and_word():
       print("Ошибка при чтении файла или записи в файл")
 
 print_number_and_word()
+
+
+#Ссылка на repl
+#https://repl.it/@ulyaakwatore/Siem-6-VSR-4#main.py
