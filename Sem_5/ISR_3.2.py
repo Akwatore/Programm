@@ -37,7 +37,7 @@ class CurrenciesJSONData():
     def serialize(self):
         with open('data.json', 'w', encoding='utf-8') as outfile:
             json.dump(self.obj, outfile, ensure_ascii=False, indent=2)
-        print('Учпешно сохранено в файл!')
+        print('Успешно сохранено в файл!')
         pass
 
 comp = CurrenciesXMLData()
