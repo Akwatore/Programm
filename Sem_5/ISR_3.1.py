@@ -2,7 +2,7 @@ from urllib.request import urlopen
 from xml.etree import ElementTree as ET
 
 class CurrencyBoard:
-    __instance = None # создаём переменную, в которую
+    __instance = None # создаём переменную, в которую будем записывать данные
 
     @staticmethod
     def getInstance():
