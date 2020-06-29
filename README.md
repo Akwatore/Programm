@@ -20,7 +20,7 @@
 
 1. Модули. Пакеты ([ИСР](https://github.com/Akwatore/Programm/blob/master/Sem_5/ISR_1.1.md), [ВСР](https://github.com/Akwatore/Programm/blob/master/Sem_5/VSR_1.1.md))
 1. Итераторы ([ИСР](https://github.com/Akwatore/Programm/blob/master/Sem_5/ISR_2.1-2.py), [ВСР](https://github.com/Akwatore/Programm/blob/master/Sem_5/VSR_2.py))
-1. 
+1. Введение в ООА, шаблоны проектирования ([ИСР 3.1](), [ИСР 3.2](), [ВСР]())
 1. Построение графиков на Python ([ИСР 4.1](https://github.com/Akwatore/Programm/blob/master/Sem_5/ISR_4.1.py), [ИСР 4.2](https://github.com/Akwatore/Programm/blob/master/Sem_5/ISR_4.2.py), [ИСР 4.3](https://github.com/Akwatore/Programm/blob/master/Sem_5/ISR_4.3.py))
 
 # Семестр 6
