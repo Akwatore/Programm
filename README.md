@@ -13,7 +13,8 @@
 
 1. Обработка исключений ([ИСР](https://github.com/Akwatore/Programm/blob/master/Sem_4/ISR_1.py), [ВСР](https://github.com/Akwatore/Programm/blob/master/Sem_4/VSR_1.py))
 1. Декораторы ([ИСР](https://github.com/Akwatore/Programm/blob/master/Sem_4/ISR_2.py), [ВСР](https://github.com/Akwatore/Programm/blob/master/Sem_4/VSR_2.py))
-1. Встроенные коллекции ([ИСР](https://github.com/Akwatore/Programm/blob/master/Sem_4/ISR_3.py), [ВСР](https://github.com/Akwatore/Programm/blob/master/Sem_4/VSR_3.py))
+1. Введение в ООП ([ИСР 3.1](https://github.com/Akwatore/Programm/blob/master/Sem_4/ISR_3.1.py), [ИСР 3.2](https://github.com/Akwatore/Programm/blob/master/Sem_4/ISR_3.2.py), [ВСР](https://github.com/python-basic/sem4-t3-Akwatore/blob/master/VSR_3.1.py))
+1. Встроенные коллекции ([ИСР](https://github.com/Akwatore/Programm/blob/master/Sem_4/ISR_4.py), [ВСР](https://github.com/Akwatore/Programm/blob/master/Sem_4/VSR_4.py))
 
 # Семестр 5
 
